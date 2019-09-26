@@ -1,0 +1,2 @@
+include ':app', ':guysstra'
+rootProject.name='StringAdvance'
